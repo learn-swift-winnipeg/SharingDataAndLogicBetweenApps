@@ -1,0 +1,3 @@
+# SharingDataAndLogicBetweenApps
+
+// TODO: Implement. ;)
